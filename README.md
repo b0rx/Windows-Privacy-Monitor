@@ -40,17 +40,17 @@ A comprehensive Windows application that monitors and detects which processes ha
 
 **Using GCC (MinGW):**
 ```bash
-gcc -o privacy_monitor.exe src/main_program.c src/json.c -lpsapi -lcomctl32 -ladvapi32 -lshell32 -mwindows -O2
+gcc -o privacy_monitor.exe src/monitor.c src/json.c -lpsapi -lcomctl32 -ladvapi32 -lshell32 -mwindows -O2
 ```
 
 **Using Visual Studio:**
 ```bash
-cl src/main_program.c src/json.c /link psapi.lib comctl32.lib advapi32.lib shell32.lib /SUBSYSTEM:WINDOWS
+cl src/monitor.c src/json.c /link psapi.lib comctl32.lib advapi32.lib shell32.lib /SUBSYSTEM:WINDOWS
 ```
 
 ### Usage
 
-1. Run `privacy_monitor.exe`
+1. Run `WindowsPrivacyMonitor.exe`
 2. The application will automatically scan all running processes
 3. Click column headers to sort by different criteria
 4. Right-click on any process to:
