@@ -25,14 +25,6 @@ A comprehensive Windows application that monitors and detects which processes ha
 - **Bluetooth Access** - Bluetooth device enumeration monitoring
 - **USB Monitoring** - USB device detection and enumeration
 
-### User Interface
-- ✅ Real-time process scanning (auto-refresh every 10 seconds)
-- ✅ Sortable columns (click headers to sort)
-- ✅ Detailed API information for each detection
-- ✅ Blacklist/Whitelist management
-- ✅ Right-click context menu for quick actions
-- ✅ Open process file location in Explorer
-
 ## 📸 Screenshots
 
 ![Main Window](screenshots/main_window.png)
