@@ -118,8 +118,6 @@ This tool is designed for **legitimate privacy monitoring** purposes:
 - ✅ Research process behavior
 - ✅ Educational purposes
 
-**⚠️ Note:** Detection of an API does not necessarily indicate malicious intent. Many legitimate applications use these APIs for normal functionality.
-
 ## 🔧 Technical Details
 
 ### Architecture
