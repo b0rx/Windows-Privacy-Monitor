@@ -33,7 +33,7 @@ A comprehensive Windows application that monitors and detects which processes ha
 ## 🚀 Quick Start
 
 ### Prerequisites
-- Windows 11 or later
+- Windows 7 or later
 - MinGW-w64 or Visual Studio (for compilation)
 
 ### Compilation
