@@ -30,9 +30,6 @@ A comprehensive Windows application that monitors and detects which processes ha
 ![Main Window](screenshots/main_window.png)
 *Main monitoring interface showing processes with detected privacy-sensitive APIs*
 
-![Context Menu](screenshots/context_menu.png)
-*Right-click menu for managing blacklist/whitelist*
-
 ## 🚀 Quick Start
 
 ### Prerequisites
