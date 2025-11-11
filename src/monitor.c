@@ -1763,7 +1763,7 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine
     RegisterClassA(&wcManage);
    
     hMainWindow = CreateWindowExA(
-        0, CLASS_NAME, "Windows Privacy Monitor - Enhanced API Detection",
+        0, CLASS_NAME, "Windows Privacy Monitor",
         WS_OVERLAPPEDWINDOW,
         CW_USEDEFAULT, CW_USEDEFAULT, 1400, 700,
         NULL, NULL, hInstance, NULL
